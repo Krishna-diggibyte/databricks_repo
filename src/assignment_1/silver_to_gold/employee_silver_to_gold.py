@@ -6,7 +6,7 @@
 # COMMAND ----------
 
 # DBTITLE 1,call schema file
-# MAGIC %run ../bronze_to_silver/schemas
+# MAGIC %run ../source_to_bronze/schemas
 
 # COMMAND ----------
 
